@@ -14,5 +14,8 @@ We will use the accuracy score to quantify the performance of our model. The acc
 
 ## Naive Bayes Classifier:
 
-Naive Bayes algorithm is a supervised classification algorithm which is based on Bayes theorem with an assumption of independence among features.
+
+It is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
+Naive Bayes model is easy to build and particularly useful for very large data sets. Along with simplicity, Naive Bayes is known to outperform even highly sophisticated classification methods.
+
 
